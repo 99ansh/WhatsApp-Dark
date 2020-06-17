@@ -1,5 +1,5 @@
 # WhatsApp-Dark
-*Extract the file in a single folder.(No subfolders)*
+*Note - Extract the file in a single folder.(No subfolders)*
 
 1) Go to chrome://extensions/ in Google Chrome
 2) Turn on the Developer Mode switch
@@ -7,4 +7,4 @@
 4) Open WhatsApp Web.
 5) Good to go :)
 
-*A couple of reloads may be required*
+*Note - A couple of reloads may be required*
